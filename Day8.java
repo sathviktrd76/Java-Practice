@@ -1,18 +1,8 @@
-
-
-public class Day8 {
+public class Day8{
     public static void main(String[] args){
-        int peopleInroom=0;
+        String txt="Hello";
+        System.out.println(txt.charAt(4));
+        System.out.println(txt.toLowerCase());
 
-        peopleInroom++;
-        peopleInroom++;
-        peopleInroom++;
-
-        System.out.println(peopleInroom);
-
-        peopleInroom--;
-        System.out.println(peopleInroom);
     }
 }
-    
-
