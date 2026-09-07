@@ -1,17 +1,25 @@
-# Java Practice Programs
+# ☕ Java Practice Programs
 
 A collection of Java programs written for regular practice and learning.
 
-## Purpose
+## 🎯 Purpose
 
 - Practice Java programming
 - Improve problem-solving skills
 - Strengthen programming fundamentals
 
-## Language
+## 🛠️ Language
 
-Java
+- Java
+
+## 📂 Repository
+
+Programs are organized based on my practice and learning progress.
+
+## 📈 Progress
+
+Continuously updated as I learn and practice Java.
 
 ---
 
-This repository is for practice and learning as I continue improving my Java skills.
+⭐ A personal repository for learning, practice, and improvement.
