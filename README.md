@@ -1,6 +1,12 @@
+<div align="center">
+
 # ☕ Java Practice Programs
 
 A collection of Java programs written for regular practice and learning.
+
+</div>
+
+---
 
 ## 🎯 Purpose
 
@@ -10,7 +16,7 @@ A collection of Java programs written for regular practice and learning.
 
 ## 🛠️ Language
 
-- Java
+**Java**
 
 ## 📂 Repository
 
@@ -22,4 +28,8 @@ Continuously updated as I learn and practice Java.
 
 ---
 
+<div align="center">
+
 ⭐ A personal repository for learning, practice, and improvement.
+
+</div>
